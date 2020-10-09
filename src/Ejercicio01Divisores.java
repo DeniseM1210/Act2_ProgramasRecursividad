@@ -27,8 +27,6 @@ public class Ejercicio01Divisores {
 		}while(num <= 0);
 		num2 = num;
 		Recursividad.divisoresRecursivo(num, num2);
-		
-
 	}
 
 }
